@@ -1,10 +1,10 @@
 print("Welcome to Jenkins CI/CD")
 
-a = 10
-b = 20
+a = 100
+b = 200
 
 result = a + b
 
 print("Addition:", result)
 
-print("Application executed successfully")
+print("Code updated by developer")
